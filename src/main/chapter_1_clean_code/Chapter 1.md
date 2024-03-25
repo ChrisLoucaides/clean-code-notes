@@ -24,3 +24,13 @@ code, that will inevitable lead to that product's (and maybe the company's) demi
 We have all written bad code at some point in our lives. Again, the reason behind this is often
 that we are in a rush. Taking time to think about the code we write - making it human-readable
 will save time in the long run.
+
+## The Total Cost of Owning a Mess
+
+A team's productivity when working on a codebase over time will tend to fall due
+to the messiness of the code.
+
+In the beginning, teams will move fast, changes made will affect other areas of the 
+codebase - requiring monkey-patching that needs to be understood. If this is not refactored,
+after applying this fix, technical debt increases, making code very hard to understand,
+especially in a few years time when new devs join the team.
