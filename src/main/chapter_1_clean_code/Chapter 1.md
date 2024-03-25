@@ -34,3 +34,14 @@ In the beginning, teams will move fast, changes made will affect other areas of 
 codebase - requiring monkey-patching that needs to be understood. If this is not refactored,
 after applying this fix, technical debt increases, making code very hard to understand,
 especially in a few years time when new devs join the team.
+
+## The Grand Redesign in the Sky
+
+Eventually a team will put their foot down, and complain to management that this application
+will cost them more to maintain in the long run, compared to building it properly from
+scratch.
+
+When management finally gives in, a new team is racing to re-build that application,
+to the point where the current project is at. However, this in itself, could also
+end up going the same way as that original project, and we now find ourselves back
+to the total cost of owning a mess.
