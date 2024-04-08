@@ -63,3 +63,13 @@ more knowledge than your patient (or the manager), to avoid potential risks.
 Hence, it is unprofessional for devs to bend to the will of managers, that don't understand
 the value of good code. While they may defend the schedule, you should defend your code with
 equal passion.
+
+### The Primal Conundrum
+Developers with a few years of experience are aware of the ramifications of previous
+messes, which ultimately slow things down. However, due to deadline pressure, this
+doesn't stop devs making messes  in order to go faster.
+
+In other words *they don't take the time* to go *fast*.
+
+True professionals know that you won't make the deadline by making that mess. The only
+way to go fast is by keeping the project's code clean at all times.
