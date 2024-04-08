@@ -85,3 +85,14 @@ Everyone starts by writing bad code, but over time, through the disciplined use 
 acquire a sense of cleanliness to our code. A programmer that does not have this "code sense" (as Uncle Bob calls it),
 can look at messy code, recognise the mess, but will have no idea how to tidy it up. A programmer *with* code sense,
 is able to apply their experiences and transform this code, into a much tidier version of itself.
+
+### What is Clean Code?
+In this part of the chapter, Uncle Bob has asked several revered programmers about what they think it means for code to 
+be clean. This is a good part of the book to read in its entirety as a lot of different perspectives are offered, however
+the main ones I agree with (I agree with all of them, I just feel some are more relevant when talking about clean code
+compared to others), are:
+
+- Readable code, meaning it exposes tensions in the problem, build them up to a climax, and solve them in an obvious way. This also compares reading clean code to a good prose.
+- Tests! Clean code should have unit tests, acceptance tests, and in some cases documentation tests. If not, it's not clean.
+- DRY!
+- If you can read code once in your head and understand what it does, the code is clean.
