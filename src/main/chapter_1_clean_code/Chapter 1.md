@@ -73,3 +73,15 @@ In other words *they don't take the time* to go *fast*.
 
 True professionals know that you won't make the deadline by making that mess. The only
 way to go fast is by keeping the project's code clean at all times.
+
+### The Art of Clean Code?
+How do we write clean code? First of all, there's no point in writing clean code if you don't know what that means.
+
+Writing clean code is much like painting a picture. It is easy to distinguish a bad painting, but being able to 
+recognise a good painting also doesn't mean we are good artists. Therefore, being able to recognise clean code doesn't
+mean we know how to write clean code.
+
+Everyone starts by writing bad code, but over time, through the disciplined use of a myriad of little techniques, we
+acquire a sense of cleanliness to our code. A programmer that does not have this "code sense" (as Uncle Bob calls it),
+can look at messy code, recognise the mess, but will have no idea how to tidy it up. A programmer *with* code sense,
+is able to apply their experiences and transform this code, into a much tidier version of itself.
