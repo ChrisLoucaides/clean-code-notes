@@ -45,3 +45,21 @@ When management finally gives in, a new team is racing to re-build that applicat
 to the point where the current project is at. However, this in itself, could also
 end up going the same way as that original project, and we now find ourselves back
 to the total cost of owning a mess.
+
+## Attitude
+Why does good code rot so quickly into bad code? The answer a lot of the time is simply
+our attitude. To quote Uncle Bob himself, "We are unprofessional."
+
+We often point fingers to requirements, schedules, managers and marketers. They shouldn't
+bear the blame. They come to developers for information to make certain commitments to stakeholders.
+What if they don't? We should still tell them what we think. Most managers want the truth,
+even if they don't like it.
+
+An analogy is used here: imagine being a doctor, and you have a patient that insisted you 
+stop spending too much time washing your hands before operating on them. You *should* 
+instantly refuse. The point here is that as a doctor (or a developer), you will have
+more knowledge than your patient (or the manager), to avoid potential risks.
+
+Hence, it is unprofessional for devs to bend to the will of managers, that don't understand
+the value of good code. While they may defend the schedule, you should defend your code with
+equal passion.
