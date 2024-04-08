@@ -1,6 +1,6 @@
 # Chapter 1: Clean Code
 
-## There will be code
+### There will be code
 
 Suggestion that we are close to the end of code - This book was released in 2008,
 yet it mentions code generation - "Programmers won't be needed". This is more 
@@ -16,7 +16,7 @@ exist. Tools that help us format requirements into code will always exist and ge
 better - but they will never reach a point where they are able to generate code 
 precisely based on requirements.
 
-## Bad Code
+### Bad Code
 
 Many businesses will rush to get their product out to market. The issue with this? Bugs, unmaintainable
 code, that will inevitable lead to that product's (and maybe the company's) demise. 
@@ -25,7 +25,7 @@ We have all written bad code at some point in our lives. Again, the reason behin
 that we are in a rush. Taking time to think about the code we write - making it human-readable
 will save time in the long run.
 
-## The Total Cost of Owning a Mess
+### The Total Cost of Owning a Mess
 
 A team's productivity when working on a codebase over time will tend to fall due
 to the messiness of the code.
@@ -35,7 +35,7 @@ codebase - requiring monkey-patching that needs to be understood. If this is not
 after applying this fix, technical debt increases, making code very hard to understand,
 especially in a few years time when new devs join the team.
 
-## The Grand Redesign in the Sky
+### The Grand Redesign in the Sky
 
 Eventually a team will put their foot down, and complain to management that this application
 will cost them more to maintain in the long run, compared to building it properly from
@@ -46,7 +46,7 @@ to the point where the current project is at. However, this in itself, could als
 end up going the same way as that original project, and we now find ourselves back
 to the total cost of owning a mess.
 
-## Attitude
+### Attitude
 Why does good code rot so quickly into bad code? The answer a lot of the time is simply
 our attitude. To quote Uncle Bob himself, "We are unprofessional."
 
